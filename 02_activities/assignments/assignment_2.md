@@ -28,6 +28,7 @@ GOOD
 
 BAD
     Edward Tufte’s “We-Used-a-Computer-to-Build-a-Duck” Syndrome Example
+    https://badriadhikari.github.io/data-viz-workshop-2021/chartjunks-vibrations-grids-ducks/
 
     I classify this visualization as a bad example because it fails to communicate the data clearly and instead overwhelms the audience with unnecessary complexity.    
 
