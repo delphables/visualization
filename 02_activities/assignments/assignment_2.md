@@ -10,25 +10,41 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+GOOD
+    NASA Scientific Visualization Studio: Global Surface Temperature Change https://svs.gsfc.nasa.gov/5376/
 
+    I classify this visualization as a good example of data visualization because it communicates an important climate trend clearly, honestly, and effectively. First, it succeeds substantively: the chart accurately represents global surface temperature anomalies relative to the 1850–1900 average baseline. The consistent axis and scale allow viewers to interpret the magnitude of warming over time without distortion. In class, we discussed that good visualizations must “accurately and honestly present data,” not simply look attractive.
 
+    It uses a familiar and accessible 2D bar chart, which reduces extraneous cognitive load. Here, viewers can immediately perceive the shift from predominantly cooler years (blue) to warmer years (red).
 
-
-
-
+    The visualization is aesthetically effective without unnecessary decoration. The color scheme reinforces meaning (cool vs. warm anomalies) while avoiding misleading graphical embellishments such as 3D effects.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+    Adding patterns or alternative text descriptions would improve interpretability for viewers with color vision deficiencies, aligning with equitable design principles.
 
+    Including uncertainty ranges or confidence intervals would strengthen scientific transparency, especially for early historical estimates.
 
+BAD
+    Edward Tufte’s “We-Used-a-Computer-to-Build-a-Duck” Syndrome Example
+    https://badriadhikari.github.io/data-viz-workshop-2021/chartjunks-vibrations-grids-ducks/
 
+    I classify this visualization as a bad example because it fails to communicate the data clearly and instead overwhelms the audience with unnecessary complexity.    
 
+    The visualization produces extremely high extraneous cognitive load. The course explains that cognitive load includes the effort introduced by how information is presented, not by the data itself. Here, excessive hatch patterns, dense labeling, and cluttered formatting force viewers to work harder than necessary
 
+    While bar charts are normally easy to interpret, this one becomes difficult because each bar uses a different cross-hatching pattern, requiring constant reference to a long legend. The viewer must repeatedly shift attention back and forth, increasing reliance on memory rather than direct perception.
 
-      
+    Instead of being visually clean or accessible, it is crowded and confusing. The chart contains excessive “chartjunk.” The decorative patterns and overly busy scale add visual noise without improving comprehension. Instead of revealing trends, the visualization hides them behind unnecessary complexity.
+
+     ```
+    - How could this data visualization have been improved?  
+      ```
+    Removing excessive cross-hatching, abbreviations, and clutter would reduce extraneous cognitive load and improve readability
+    Directly labeling values on the bars would eliminate the need for an oversized legend and reduce memory burden
+    Since the dataset contains only a few numbers, a simple table or cleaner bar chart would communicate the information more effectively
+
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)

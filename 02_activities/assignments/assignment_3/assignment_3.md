@@ -1,4 +1,18 @@
-# Data Visualization
+# Assignment 3: Final Project: TTC LRT Delays
+
+## Dataset
+
+**Dataset name:** TTC LRT Delays  
+**Source:** City of Toronto Open Data Portal  
+**Dataset URL:** https://open.toronto.ca/dataset/ttc-lrt-delay-data/
+
+**Description:**  
+This dataset contains records of delays affecting TTC LRT services, including delay causes, duration, routes, and dates. The dataset was selected to examine transit reliability issues that directly impact daily commuters, accessibility, and public trust in urban transportation systems.
+
+## Project Overview
+
+This project explores patterns in TTC LRT delays using two distinct data visualizations created with different tools. One visualization is created using Python for reproducibility, while the second uses a complementary visualization approach to explore the data from a different perspective.
+
 
 ## Assignment 3: Final Project
 
